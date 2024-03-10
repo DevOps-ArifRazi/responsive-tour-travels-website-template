@@ -66,6 +66,15 @@
     .main-image{
         width: 50%;
     }
+    .form {  
+        padding: 0px;
+        left: 0px;
+        height: 100px;
+
+    }
+    .box{
+        padding: 10px;
+    }
     .ticket{
         padding-left: 0px;
         width: 300px;
@@ -89,6 +98,13 @@
     .hiking img{
         border: 10px whitesmoke;
         max-width: 200px;
+    }
+    .sug12 {
+
+        line-height: 1.5rem;
+        padding-left: 5px;
+        padding-right: 0px;
+        font-family: 'Gilroy_Bold';
     }
     .content-3-details {
         max-width: 100%;
