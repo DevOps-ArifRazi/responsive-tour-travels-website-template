@@ -79,7 +79,7 @@
         padding: 0px;
         left: 0px;
         height: 100px;
-        width: 600px;
+
     }
     .form1{
         max-width: 100%;
@@ -95,6 +95,18 @@
         display: flex;
         flex-direction: column;
     }
+    .sug {
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;       
+    }
+    .sug1{
+        display: flex;
+        gap: 20px;
+        flex-wrap: wrap;
+        flex-direction: column;  
+    }
     .main-content-3{
         max-width: 100%;
         display: flex;
@@ -108,8 +120,6 @@
     }
     .content-3-details{
         max-width: 100%;
-
-
     }
     .swiper{
         max-width: 100%;
@@ -131,7 +141,7 @@
     .image img{
         width: 100%;
         border-top-left-radius: 6px;
-        border-top-right-radius: 6px;
+       border-top-right-radius: 6px;
     
     }
     .icon{
@@ -250,7 +260,6 @@
     .tour_tile {
         width: 100%;
         display: flex;
-        flex-direction: column;
         flex-wrap: wrap;
         padding-top: 0px;
     }
